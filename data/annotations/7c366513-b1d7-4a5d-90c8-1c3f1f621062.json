@@ -272,18 +272,18 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Random slight increase in amplitude with numbers 46 and 47"
+              "text": "46 and 47 are highlighted randomly with a quick delivery that picks up volume"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Performance"
+          "tag": "Amplitude",
+          "category": "Performance"
         },
         {
-          "tag": "Amplitude",
+          "tag": "Tempo",
           "category": "Performance"
         }
       ],
