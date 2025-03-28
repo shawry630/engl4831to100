@@ -404,12 +404,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
           "tag": "Amplitude",
           "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
         }
       ],
       "uuid": "1e3f4f1f-3287-4f34-a948-94daec171d62"
