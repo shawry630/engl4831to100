@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "17004b11-de9f-4494-a411-d613c0c82fa9": {
+      "label": "1-100",
+      "is_offline": false,
+      "file_url": "https://media.sas.upenn.edu/pennsound/authors/Bernstein/Class/Bernstein-Charles_02_1-100_1969-remastered.mp3",
+      "duration": 195
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "1-100",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is a reading of the poem \"1-100\" by Charles Bernstein"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-28T21:12:20.652Z",
+  "created_by": "shawry630",
+  "updated_at": "2025-03-28T21:12:20.652Z",
+  "updated_by": "shawry630"
+}

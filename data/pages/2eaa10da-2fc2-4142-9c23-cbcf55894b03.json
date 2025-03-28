@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-28T21:12:20.836Z",
+  "created_by": "shawry630",
+  "title": "1-100",
+  "slug": "1-100",
+  "updated_at": "2025-03-28T21:12:20.836Z",
+  "updated_by": "shawry630",
+  "parent": "5d4101f8-1b98-400a-a134-8471c40ccc01",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ec072219-9670-4439-be9d-cb3f19566e4c"
+  }
+}
