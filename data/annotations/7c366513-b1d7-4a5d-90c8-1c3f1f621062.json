@@ -187,16 +187,12 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Vocal strength and loudness pick up, and certain words are dragged out until 30 is read with a shout"
+              "text": "Vocal strength and loudness pick up, and certain words are dragged out until 30 is read with a shout. There are also the sounds of someone in the background speaking, then laughing. This suggests that there could be others in the room or near Bernstein as he performs this piece"
             }
           ]
         }
       ],
       "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
         {
           "tag": "Amplitude",
           "category": "Performance"
@@ -204,6 +200,10 @@
         {
           "tag": "Timbre",
           "category": "Performance"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
         }
       ],
       "uuid": "079efe9b-6596-422c-8a7f-f7ef509f343c"
