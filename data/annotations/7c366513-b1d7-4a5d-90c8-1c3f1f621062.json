@@ -8,7 +8,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Unknown shuffling noise, Bernstein exhales before he begins."
+              "text": "Unknown shuffling noise, Bernstein exhales before he begins. There is not much known about the text of \"1-100\" or this recording, other than it was possibly created and performed while he attended college. "
             }
           ]
         }
@@ -21,6 +21,10 @@
         {
           "tag": "Ambient Noise",
           "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
         }
       ],
       "uuid": "1763e6ed-915c-4906-891d-5ddc7b457a68"
