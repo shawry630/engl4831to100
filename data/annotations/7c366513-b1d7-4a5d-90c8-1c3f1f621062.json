@@ -343,19 +343,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "His voice grows louder and frantic"
+              "text": "The numbers grow louder and there is a frantic edge to the counting. Listeners can hear a distorted twinge to the numbers, possibly due to the recording equipment used or damage to the physical recording."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
-        {
           "tag": "Amplitude",
           "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
         }
       ],
       "uuid": "05c5795c-19d4-42aa-ab83-985d2041b66a"
