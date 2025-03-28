@@ -368,18 +368,22 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The names of the numbers are strung out and and the sound is held"
+              "text": "Words are lengthened, and the volume increases further. The pitch changes as well, and some numbers are exaggerated with a howl-like moaning. The tone indicates an excited panic; we are getting closer to 100"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Performance"
+          "tag": "Tempo",
+          "category": "Performance"
         },
         {
-          "tag": "Tempo",
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
           "category": "Performance"
         }
       ],
