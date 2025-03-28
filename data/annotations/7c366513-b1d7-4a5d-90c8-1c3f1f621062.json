@@ -187,31 +187,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Someone in the background speaking, then laughing"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Extra-Poetic Sounds"
-        },
-        {
-          "tag": "Audience Sounds",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "791d3967-d46a-45ea-ad2c-d3d11d94187c"
-    },
-    {
-      "start_time": 35,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Vocal strength and loudness pick up, and certain words are dragged out until 30 is read with a shout"
             }
           ]
