@@ -188,16 +188,12 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "After 31, the names of the numbers are shortened, but the syllables are lengthened "
+              "text": "After 31, the numbers are shortened to their second digit, but conflictingly their syllables are elongated in their pronunciation"
             }
           ]
         }
       ],
       "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Performance"
-        },
         {
           "tag": "Duration",
           "category": "Performance"
