@@ -447,7 +447,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The final number is read calmly and in Bernstein's regular speaking voice. He also reads one hundred as \"a hundred,\" an informal but more naturally flowing linguistic habit for some. "
+              "text": "The final number is read calmly and in Bernstein's regular speaking voice, denying listeners of reaching the apex with the excitement or anticipation built with the performance of the previous numbers. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instead of pronouncing 100 as \"one hundred,\" Bernstein instead says \"a hundred.\" Perhaps it is just a more naturally flowing linguistic habit, but it could also be purposeful with the satiric and informal nature of the poem. "
             }
           ]
         }
@@ -455,6 +463,10 @@
       "tags": [
         {
           "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
           "category": "Performance"
         }
       ],
